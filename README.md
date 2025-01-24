@@ -7,3 +7,4 @@
 |코딩 과정|[2025-01-20](https://github.com/Yeyeong99/TIL/blob/main/first_semester/coding/2025_01_20.md)|파이썬 기본 문법 (type)|
 |코딩 과정|[2025-01-21](https://github.com/Yeyeong99/TIL/blob/main/first_semester/coding/2025_01_21.md)|파이썬 기본 문법 (Sequence)|
 |코딩 과정|[2025-01-22](https://github.com/Yeyeong99/TIL/blob/main/first_semester/coding/2025_01_22.md)|파이썬 기본 문법 (함수)|
+|코딩 과정|[2025-01-24](https://github.com/Yeyeong99/TIL/blob/main/first_semester/coding/2025_01_24.md)|파이썬 기본 문법 (메소드)|
