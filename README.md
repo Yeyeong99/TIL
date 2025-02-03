@@ -10,3 +10,4 @@
 |코딩 과정|[2025-01-24](https://github.com/Yeyeong99/TIL/blob/main/first_semester/coding/2025_01_24.md)|파이썬 기본 문법 (메소드)|
 |PJT|[2025-01-31](https://github.com/Yeyeong99/TIL/blob/main/first_semester/coding/2025_01_31.md)|API 호출 실습|
 |알고리즘|[2025-02-02](https://github.com/Yeyeong99/TIL/blob/main/first_semester/coding/2025_02_02.md)|재귀함수, 순열, 조합|
+|코딩 과정|[2025-02-03](https://github.com/Yeyeong99/TIL/blob/main/first_semester/coding/2025_02_03.md)|OOP|
