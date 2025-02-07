@@ -12,3 +12,5 @@
 |알고리즘|[2025-02-02](https://github.com/Yeyeong99/TIL/blob/main/first_semester/algorithm/2025_02_02.md)|재귀함수, 순열, 조합|
 |코딩 과정|[2025-02-03](https://github.com/Yeyeong99/TIL/blob/main/first_semester/coding/2025_02_03.md)|OOP|
 |코딩 과정|[2025-02-04](https://github.com/Yeyeong99/TIL/blob/main/first_semester/coding/2025_02_04.md)|OOP, 예외, 에러|
+|알고리즘|[2025-02-05](https://github.com/Yeyeong99/TIL/blob/main/first_semester/algorithm/2025_02_05.md)|버블정렬|
+|알고리즘|[2025-02-05](https://github.com/Yeyeong99/TIL/blob/main/first_semester/algorithm/2025_02_06.md)|카운트 정렬, 그리디|
