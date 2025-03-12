@@ -25,3 +25,6 @@
 |알고리즘|[2025-02-13](https://github.com/Yeyeong99/TIL/blob/main/first_semester/algorithm/week_6/2025_02_13.md)|Stack|
 |알고리즘|[2025-02-14](https://github.com/Yeyeong99/TIL/blob/main/first_semester/algorithm/week_6/2025_02_14.md)|메모이제이션, 다이나믹 프로그래밍, DFS|
 |Week 7|||
+|알고리즘|[2025-02-18](https://github.com/Yeyeong99/TIL/blob/main/first_semester/algorithm/week_7/2025_02_18.md)|백트래킹을 이용한 순열|
+|알고리즘|[2025-02-19](https://github.com/Yeyeong99/TIL/blob/main/first_semester/algorithm/week_7/2025_02_19.md)|Queue|
+|알고리즘|[2025-02-20](https://github.com/Yeyeong99/TIL/blob/main/first_semester/algorithm/week_7/2025_02_20.md)|BFS|
