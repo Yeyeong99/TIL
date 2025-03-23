@@ -10,12 +10,12 @@
 |코딩 과정|[2025-01-22](https://github.com/Yeyeong99/TIL/blob/main/first_semester/coding/2025_01_22.md)|파이썬 기본 문법 (함수)|
 |코딩 과정|[2025-01-24](https://github.com/Yeyeong99/TIL/blob/main/first_semester/coding/2025_01_24.md)|파이썬 기본 문법 (메소드)|
 |Week 4|||
-|PJT|[2025-01-31](https://github.com/Yeyeong99/TIL/blob/main/first_semester/coding/2025_01_31.md)|API 호출 실습|
+|PJT|[2025-01-31](https://github.com/Yeyeong99/TIL/blob/main/first_semester/PJT/2025_01_31.md)|API 호출 실습|
 |Week 5|||
-|알고리즘|[2025-02-02](https://github.com/Yeyeong99/TIL/blob/main/first_semester/algorithm/2025_02_02.md)|재귀함수, 순열, 조합|
+|알고리즘|[2025-02-02](https://github.com/Yeyeong99/TIL/blob/main/first_semester/algorithm/week_05/2025_02_02.md)|재귀함수, 순열, 조합|
 |코딩 과정|[2025-02-03](https://github.com/Yeyeong99/TIL/blob/main/first_semester/coding/2025_02_03.md)|OOP|
 |코딩 과정|[2025-02-04](https://github.com/Yeyeong99/TIL/blob/main/first_semester/coding/2025_02_04.md)|OOP, 예외, 에러|
-|알고리즘|[2025-02-05](https://github.com/Yeyeong99/TIL/blob/main/first_semester/algorithm/week_5/2025_02_05.md)|버블정렬|
+|알고리즘|[2025-02-05](https://github.com/Yeyeong99/TIL/blob/main/first_semester/algorithm/week_05/2025_02_05.md)|버블정렬|
 |알고리즘|[2025-02-06](https://github.com/Yeyeong99/TIL/blob/main/first_semester/algorithm/week_5/2025_02_06.md)|카운트 정렬, 그리디|
 |알고리즘|[2025-02-07](https://github.com/Yeyeong99/TIL/blob/main/first_semester/algorithm/week_5/2025_02_07.md)|이중배열, 델타 탐색|
 |Week 6|||
