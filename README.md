@@ -1,5 +1,4 @@
-# TIL
-## 1학기 내용 정리
+# SSAFY(삼성청년SW·AI아카데미) 13기 상반기 TIL
 |구분|바로가기|
 |-|-|
 |스타트 캠프|[git 기본](https://github.com/Yeyeong99/TIL/tree/main/first_semester/start_camp)|
